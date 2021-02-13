@@ -2,7 +2,7 @@
 # zip-lk Address Zip Detail Provider
 
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/lahirudanushka/RC4-Crypto)
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/lahirudanushka/zip-lk.git)
 
 This package provides zip address location information with district or province and can be search information by zip.
 
